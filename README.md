@@ -1,2 +1,6 @@
-# app-dev
-My first repository
+```
+{
+  "Favorite Series": "The Walking dead, The Boys, One Piece, Dragon Balls, Bleach, Naruto, Prison Break",
+  "Favorite Movies": "The Wrong Turn, Scary Movies, Insidious, John Wick, Final Destination, Chucky"
+}
+```
